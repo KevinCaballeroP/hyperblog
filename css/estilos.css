@@ -40,7 +40,13 @@ body{
     font-size: 20px;
 }
 
-#post {
-    background: wheat;
+#post{
+    padding: 1em;
+}
+
+#footer{
+    background: #444;
+    color: aqua;
+    text-align: center;
     padding: 1em;
 }
